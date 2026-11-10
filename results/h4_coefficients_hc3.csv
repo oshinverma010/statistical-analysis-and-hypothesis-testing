@@ -1,0 +1,9 @@
+,coef,se_HC3,p_HC3,ci_low,ci_high
+Intercept,-0.13188,0.52498,0.80193,-1.16741,0.90365
+"C(income_group, Treatment('High income'))[T.Low income]",-3.09621,1.06676,0.00414,-5.20042,-0.992
+"C(income_group, Treatment('High income'))[T.Lower middle income]",-2.70512,0.81232,0.00104,-4.30744,-1.10279
+"C(income_group, Treatment('High income'))[T.Upper middle income]",-2.00777,1.01217,0.04874,-4.00431,-0.01124
+lg_gdp,0.22032,0.11595,0.05894,-0.0084,0.44904
+"lg_gdp:C(income_group, Treatment('High income'))[T.Low income]",0.65415,0.35105,0.06395,-0.0383,1.34659
+"lg_gdp:C(income_group, Treatment('High income'))[T.Lower middle income]",0.62034,0.21931,0.00518,0.18774,1.05293
+"lg_gdp:C(income_group, Treatment('High income'))[T.Upper middle income]",0.47332,0.25384,0.06377,-0.02739,0.97403

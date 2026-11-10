@@ -1,0 +1,5 @@
+,VIF
+"C(income_group, Treatment('High income'))[T.Low income]",7.027
+"C(income_group, Treatment('High income'))[T.Lower middle income]",6.901
+"C(income_group, Treatment('High income'))[T.Upper middle income]",3.501
+lg_gdp,8.321

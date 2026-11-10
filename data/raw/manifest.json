@@ -1,0 +1,51 @@
+{
+  "owid-co2-data.csv": {
+    "url": "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv",
+    "downloaded_utc": "2026-11-05 10:09:15",
+    "bytes": 14377942,
+    "sha256": "7f78e2b218ce4bb8c538bbec04fdc9a7982e8d40bff972e650df603899edd5f6",
+    "note": ""
+  },
+  "wb_country_metadata.csv": {
+    "url": "https://api.worldbank.org/v2/country",
+    "downloaded_utc": "2026-11-05 10:09:16",
+    "bytes": 21405,
+    "sha256": "ec0788af0e02ce31452b08f6d0d0a3ec90c1a263dac25a191c129c8bffc2b248",
+    "note": "296 rows incl. aggregates"
+  },
+  "wb_NY.GDP.PCAP.KD.csv": {
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.PCAP.KD?date=1990:2022",
+    "downloaded_utc": "2026-11-05 10:09:16",
+    "bytes": 375456,
+    "sha256": "6dbff6747c2a15c3f37e7278544ac0c03640e3a577e814c2388f5979f37b7fc0",
+    "note": "8778 rows incl. aggregates and nulls"
+  },
+  "wb_NY.GDP.PCAP.PP.KD.csv": {
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.PCAP.PP.KD?date=1990:2022",
+    "downloaded_utc": "2026-11-05 10:09:16",
+    "bytes": 370477,
+    "sha256": "22af2902d0704c2cc7cfd0bc7aac3a075b0bf63a8bbfd1db0698bb47798c40fe",
+    "note": "8778 rows incl. aggregates and nulls"
+  },
+  "wb_SP.POP.TOTL.csv": {
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=1990:2022",
+    "downloaded_utc": "2026-11-05 10:09:17",
+    "bytes": 326481,
+    "sha256": "57cf0d2a7dae140915b3387ac933f702384b427f0e23a8b4baf7459257df9d23",
+    "note": "8778 rows incl. aggregates and nulls"
+  },
+  "wb_SP.URB.TOTL.IN.ZS.csv": {
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.URB.TOTL.IN.ZS?date=1990:2022",
+    "downloaded_utc": "2026-11-05 10:09:17",
+    "bytes": 378982,
+    "sha256": "335e37ab4bdcd60c250801bb44b2b0d7d3a79247c15d79e8de58b938352ab6b5",
+    "note": "8778 rows incl. aggregates and nulls"
+  },
+  "wb_NV.IND.TOTL.ZS.csv": {
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NV.IND.TOTL.ZS?date=1990:2022",
+    "downloaded_utc": "2026-11-05 10:09:18",
+    "bytes": 364013,
+    "sha256": "ecd1aff6e43e5f69beb0c592d211d7a27af931a52d7200456943cebaff7c0478",
+    "note": "8778 rows incl. aggregates and nulls"
+  }
+}

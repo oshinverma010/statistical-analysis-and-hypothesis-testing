@@ -1,0 +1,29 @@
+hypothesis,check,statistic,p_value,verdict,detail
+H1,Shapiro-Wilk: log10 GDP pc,0.9802599638039167,0.006874846542423304,NOT normal (p<=0.05),n=198
+H1,Shapiro-Wilk: log10 CO2 pc,0.9658619023551276,9.827001589945191e-05,NOT normal (p<=0.05),n=198
+H1,Shapiro-Wilk: raw GDP pc (before log),0.7132809875349132,3.4260662094218872e-18,NOT normal (p<=0.05),n=198
+H1,Shapiro-Wilk: raw CO2 pc (before log),0.7325839096203313,1.3709014673043243e-17,NOT normal (p<=0.05),n=198
+H1,skewness raw vs log10 CO2 pc,2.5833099918222238,,log transform reduces skew,"skew raw=2.58, skew log10=-0.58"
+H1,outliers |z|>3 on log10 CO2 pc,0.0,,none,
+H2,"Shapiro-Wilk: raw CO2 pc, Low income",0.4831684474863109,2.5622844720770574e-08,NOT normal (p<=0.05),n=25
+H2,"Shapiro-Wilk: log10 CO2 pc, Low income",0.8800931924259408,0.006941234330925181,NOT normal (p<=0.05),n=25
+H2,"Shapiro-Wilk: raw CO2 pc, Lower middle income",0.8096051601924482,2.623246423437776e-06,NOT normal (p<=0.05),n=47
+H2,"Shapiro-Wilk: log10 CO2 pc, Lower middle income",0.9625087269393723,0.1352666699980558,normal (p>0.05),n=47
+H2,"Shapiro-Wilk: raw CO2 pc, Upper middle income",0.807515701781238,2.493692743823676e-07,NOT normal (p<=0.05),n=59
+H2,"Shapiro-Wilk: log10 CO2 pc, Upper middle income",0.9812355934058835,0.49455795940643055,normal (p>0.05),n=59
+H2,"Shapiro-Wilk: raw CO2 pc, High income",0.7901020981066957,6.714415386902323e-09,NOT normal (p<=0.05),n=74
+H2,"Shapiro-Wilk: log10 CO2 pc, High income",0.9818057050640739,0.36480198271520503,normal (p>0.05),n=74
+H2,Levene/Brown-Forsythe on log10 CO2 pc,0.25780890297374875,0.8557090496881401,equal variances,
+H2,Levene/Brown-Forsythe on raw CO2 pc,14.970216228329749,7.821663693255838e-09,UNEQUAL variances,
+H3,"Shapiro-Wilk: log10 CO2 pc, High",0.9818057050640739,0.36480198271520503,normal (p>0.05),n=74
+H3,"Shapiro-Wilk: log10 CO2 pc, Lower-middle + Low",0.9821007348157936,0.39708645016703414,normal (p>0.05),n=72
+H3,Levene (Brown-Forsythe) High vs LM+Low,14.891304282136476,0.00017133729915725534,UNEQUAL variances -> Welch justified,SD ratio=0.63
+H4,Breusch-Pagan (full model),2.8357675758840086,0.899768001733966,homoscedastic,
+H4,Shapiro-Wilk: residuals of full model,0.9739942582757782,0.0009751866833953948,NOT normal (p<=0.05),n=198
+H4,Cook's distance > 4/n,8.0,0.020202020202020204,8 influential points,"AFG, CRI, KAZ, MNG, QAT, SYR, UKR, VEN"
+H4,max VIF (main-effects model),8.321010873122015,,elevated (>=5),interaction-model VIFs are inflated by construction and not used
+H5,Shapiro-Wilk: log ratio ln(CO2pc_2022/CO2pc_1990),0.9663794830414839,0.045979840519907306,NOT normal (p<=0.05),n=74
+H6,minimum expected count,6.413043478260869,,all >= 5 -> chi-square valid,0 of 8 cells below 5
+H7,max VIF,1.8406918135576693,,OK (<5),"{'lg_gdp': np.float64(1.84), 'industry_pct_latest': np.float64(1.0), 'urban_pct_latest': np.float64(1.84)}"
+H7,Breusch-Pagan,2.0897318509103027,0.5539928714391409,homoscedastic,
+H7,Shapiro-Wilk: residuals,0.9950286452739443,0.7726095045862134,normal (p>0.05),n=194

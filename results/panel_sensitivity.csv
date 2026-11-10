@@ -1,0 +1,3 @@
+model,n_country_years,n_countries,slope,se,ci_low,ci_high,p
+log10 CO2 pc ~ log10 GDP pc + year effects (cluster SE),6447,203,0.9708980951749774,0.03888392524555606,0.8946870021161397,1.047109188233815,1.323397332058926e-137
+"income-group x slope interaction (joint Wald, cluster SE)",6447,203,,,,,4.16368417948632e-05

@@ -1,0 +1,30 @@
+hypothesis,stage,n_remaining,n_excluded
+H1,all country entities (WB country list U OWID countries),229,0
+H1,no CO2 pc in 2022 (or <= 0),214,15
+H1,no GDP pc in 2022 (or <= 0),198,16
+H2,all country entities (WB country list U OWID countries),229,0
+H2,no CO2 pc in 2022 (or <= 0),214,15
+H2,no World Bank income group,205,9
+H3,all country entities (WB country list U OWID countries),229,0
+H3,no CO2 pc in 2022 (or <= 0),214,15
+H3,no World Bank income group,205,9
+H3,income group not High / Lower-middle / Low,146,59
+H4,all country entities (WB country list U OWID countries),229,0
+H4,no CO2 pc in 2022 (or <= 0),214,15
+H4,no GDP pc in 2022 (or <= 0),198,16
+H4,no World Bank income group,198,0
+H5,all country entities (WB country list U OWID countries),229,0
+H5,not a high-income country,86,143
+H5,no CO2 pc in 1990 (or <= 0),74,12
+H5,no CO2 pc in 2022 (or <= 0),74,0
+H6,all country entities (WB country list U OWID countries),229,0
+H6,no World Bank income group,217,12
+H6,no CO2 pc in 1990 (or <= 0),199,18
+H6,no CO2 pc in 2022 (or <= 0),199,0
+H6,no GDP pc in 1990 (or <= 0),185,14
+H6,no GDP pc in 2022 (or <= 0),184,1
+H7,all country entities (WB country list U OWID countries),229,0
+H7,no CO2 pc in 2022 (or <= 0),214,15
+H7,no GDP pc in 2022 (or <= 0),198,16
+H7,no urbanisation value in 2018-2022,198,0
+H7,no industry share in 2018-2022,194,4

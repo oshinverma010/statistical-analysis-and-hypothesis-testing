@@ -1,0 +1,405 @@
+hypothesis,iso3,name,reason
+H1,ASM,American Samoa,no CO2 pc in 2022 (or <= 0)
+H1,ATA,ATA,no CO2 pc in 2022 (or <= 0)
+H1,CHI,Channel Islands,no CO2 pc in 2022 (or <= 0)
+H1,CXR,CXR,no CO2 pc in 2022 (or <= 0)
+H1,CYM,Cayman Islands,no CO2 pc in 2022 (or <= 0)
+H1,GIB,Gibraltar,no CO2 pc in 2022 (or <= 0)
+H1,GUM,Guam,no CO2 pc in 2022 (or <= 0)
+H1,IMN,Isle of Man,no CO2 pc in 2022 (or <= 0)
+H1,MAF,St. Martin (French part),no CO2 pc in 2022 (or <= 0)
+H1,MCO,Monaco,no CO2 pc in 2022 (or <= 0)
+H1,MNP,Northern Mariana Islands,no CO2 pc in 2022 (or <= 0)
+H1,PRI,Puerto Rico (US),no CO2 pc in 2022 (or <= 0)
+H1,SMR,San Marino,no CO2 pc in 2022 (or <= 0)
+H1,VAT,VAT,no CO2 pc in 2022 (or <= 0)
+H1,VIR,Virgin Islands (U.S.),no CO2 pc in 2022 (or <= 0)
+H1,AIA,AIA,no GDP pc in 2022 (or <= 0)
+H1,BES,BES,no GDP pc in 2022 (or <= 0)
+H1,COK,COK,no GDP pc in 2022 (or <= 0)
+H1,ERI,Eritrea,no GDP pc in 2022 (or <= 0)
+H1,LIE,Liechtenstein,no GDP pc in 2022 (or <= 0)
+H1,MSR,MSR,no GDP pc in 2022 (or <= 0)
+H1,NCL,New Caledonia,no GDP pc in 2022 (or <= 0)
+H1,NIU,NIU,no GDP pc in 2022 (or <= 0)
+H1,PRK,"Korea, Dem. People's Rep.",no GDP pc in 2022 (or <= 0)
+H1,SHN,SHN,no GDP pc in 2022 (or <= 0)
+H1,SPM,SPM,no GDP pc in 2022 (or <= 0)
+H1,SSD,South Sudan,no GDP pc in 2022 (or <= 0)
+H1,TWN,TWN,no GDP pc in 2022 (or <= 0)
+H1,VGB,British Virgin Islands,no GDP pc in 2022 (or <= 0)
+H1,WLF,WLF,no GDP pc in 2022 (or <= 0)
+H1,YEM,"Yemen, Rep.",no GDP pc in 2022 (or <= 0)
+H2,ASM,American Samoa,no CO2 pc in 2022 (or <= 0)
+H2,ATA,ATA,no CO2 pc in 2022 (or <= 0)
+H2,CHI,Channel Islands,no CO2 pc in 2022 (or <= 0)
+H2,CXR,CXR,no CO2 pc in 2022 (or <= 0)
+H2,CYM,Cayman Islands,no CO2 pc in 2022 (or <= 0)
+H2,GIB,Gibraltar,no CO2 pc in 2022 (or <= 0)
+H2,GUM,Guam,no CO2 pc in 2022 (or <= 0)
+H2,IMN,Isle of Man,no CO2 pc in 2022 (or <= 0)
+H2,MAF,St. Martin (French part),no CO2 pc in 2022 (or <= 0)
+H2,MCO,Monaco,no CO2 pc in 2022 (or <= 0)
+H2,MNP,Northern Mariana Islands,no CO2 pc in 2022 (or <= 0)
+H2,PRI,Puerto Rico (US),no CO2 pc in 2022 (or <= 0)
+H2,SMR,San Marino,no CO2 pc in 2022 (or <= 0)
+H2,VAT,VAT,no CO2 pc in 2022 (or <= 0)
+H2,VIR,Virgin Islands (U.S.),no CO2 pc in 2022 (or <= 0)
+H2,AIA,AIA,no World Bank income group
+H2,BES,BES,no World Bank income group
+H2,COK,COK,no World Bank income group
+H2,MSR,MSR,no World Bank income group
+H2,NIU,NIU,no World Bank income group
+H2,SHN,SHN,no World Bank income group
+H2,SPM,SPM,no World Bank income group
+H2,TWN,TWN,no World Bank income group
+H2,WLF,WLF,no World Bank income group
+H3,ASM,American Samoa,no CO2 pc in 2022 (or <= 0)
+H3,ATA,ATA,no CO2 pc in 2022 (or <= 0)
+H3,CHI,Channel Islands,no CO2 pc in 2022 (or <= 0)
+H3,CXR,CXR,no CO2 pc in 2022 (or <= 0)
+H3,CYM,Cayman Islands,no CO2 pc in 2022 (or <= 0)
+H3,GIB,Gibraltar,no CO2 pc in 2022 (or <= 0)
+H3,GUM,Guam,no CO2 pc in 2022 (or <= 0)
+H3,IMN,Isle of Man,no CO2 pc in 2022 (or <= 0)
+H3,MAF,St. Martin (French part),no CO2 pc in 2022 (or <= 0)
+H3,MCO,Monaco,no CO2 pc in 2022 (or <= 0)
+H3,MNP,Northern Mariana Islands,no CO2 pc in 2022 (or <= 0)
+H3,PRI,Puerto Rico (US),no CO2 pc in 2022 (or <= 0)
+H3,SMR,San Marino,no CO2 pc in 2022 (or <= 0)
+H3,VAT,VAT,no CO2 pc in 2022 (or <= 0)
+H3,VIR,Virgin Islands (U.S.),no CO2 pc in 2022 (or <= 0)
+H3,AIA,AIA,no World Bank income group
+H3,BES,BES,no World Bank income group
+H3,COK,COK,no World Bank income group
+H3,MSR,MSR,no World Bank income group
+H3,NIU,NIU,no World Bank income group
+H3,SHN,SHN,no World Bank income group
+H3,SPM,SPM,no World Bank income group
+H3,TWN,TWN,no World Bank income group
+H3,WLF,WLF,no World Bank income group
+H3,ALB,Albania,income group not High / Lower-middle / Low
+H3,ARG,Argentina,income group not High / Lower-middle / Low
+H3,ARM,Armenia,income group not High / Lower-middle / Low
+H3,AZE,Azerbaijan,income group not High / Lower-middle / Low
+H3,BIH,Bosnia and Herzegovina,income group not High / Lower-middle / Low
+H3,BLR,Belarus,income group not High / Lower-middle / Low
+H3,BLZ,Belize,income group not High / Lower-middle / Low
+H3,BRA,Brazil,income group not High / Lower-middle / Low
+H3,BWA,Botswana,income group not High / Lower-middle / Low
+H3,CHN,China,income group not High / Lower-middle / Low
+H3,COL,Colombia,income group not High / Lower-middle / Low
+H3,CPV,Cabo Verde,income group not High / Lower-middle / Low
+H3,CUB,Cuba,income group not High / Lower-middle / Low
+H3,DMA,Dominica,income group not High / Lower-middle / Low
+H3,DOM,Dominican Republic,income group not High / Lower-middle / Low
+H3,DZA,Algeria,income group not High / Lower-middle / Low
+H3,ECU,Ecuador,income group not High / Lower-middle / Low
+H3,FJI,Fiji,income group not High / Lower-middle / Low
+H3,FSM,"Micronesia, Fed. Sts.",income group not High / Lower-middle / Low
+H3,GAB,Gabon,income group not High / Lower-middle / Low
+H3,GEO,Georgia,income group not High / Lower-middle / Low
+H3,GNQ,Equatorial Guinea,income group not High / Lower-middle / Low
+H3,GRD,Grenada,income group not High / Lower-middle / Low
+H3,GTM,Guatemala,income group not High / Lower-middle / Low
+H3,IDN,Indonesia,income group not High / Lower-middle / Low
+H3,IRN,"Iran, Islamic Rep.",income group not High / Lower-middle / Low
+H3,IRQ,Iraq,income group not High / Lower-middle / Low
+H3,JAM,Jamaica,income group not High / Lower-middle / Low
+H3,JOR,Jordan,income group not High / Lower-middle / Low
+H3,KAZ,Kazakhstan,income group not High / Lower-middle / Low
+H3,LBY,Libya,income group not High / Lower-middle / Low
+H3,LCA,St. Lucia,income group not High / Lower-middle / Low
+H3,LKA,Sri Lanka,income group not High / Lower-middle / Low
+H3,MDA,Moldova,income group not High / Lower-middle / Low
+H3,MDV,Maldives,income group not High / Lower-middle / Low
+H3,MEX,Mexico,income group not High / Lower-middle / Low
+H3,MHL,Marshall Islands,income group not High / Lower-middle / Low
+H3,MKD,North Macedonia,income group not High / Lower-middle / Low
+H3,MNE,Montenegro,income group not High / Lower-middle / Low
+H3,MNG,Mongolia,income group not High / Lower-middle / Low
+H3,MUS,Mauritius,income group not High / Lower-middle / Low
+H3,MYS,Malaysia,income group not High / Lower-middle / Low
+H3,PER,Peru,income group not High / Lower-middle / Low
+H3,PHL,Philippines,income group not High / Lower-middle / Low
+H3,PRY,Paraguay,income group not High / Lower-middle / Low
+H3,SLV,El Salvador,income group not High / Lower-middle / Low
+H3,SRB,Serbia,income group not High / Lower-middle / Low
+H3,SUR,Suriname,income group not High / Lower-middle / Low
+H3,THA,Thailand,income group not High / Lower-middle / Low
+H3,TKM,Turkmenistan,income group not High / Lower-middle / Low
+H3,TON,Tonga,income group not High / Lower-middle / Low
+H3,TUR,Turkiye,income group not High / Lower-middle / Low
+H3,TUV,Tuvalu,income group not High / Lower-middle / Low
+H3,UKR,Ukraine,income group not High / Lower-middle / Low
+H3,VCT,St. Vincent and the Grenadines,income group not High / Lower-middle / Low
+H3,VNM,Viet Nam,income group not High / Lower-middle / Low
+H3,WSM,Samoa,income group not High / Lower-middle / Low
+H3,XKX,Kosovo,income group not High / Lower-middle / Low
+H3,ZAF,South Africa,income group not High / Lower-middle / Low
+H4,ASM,American Samoa,no CO2 pc in 2022 (or <= 0)
+H4,ATA,ATA,no CO2 pc in 2022 (or <= 0)
+H4,CHI,Channel Islands,no CO2 pc in 2022 (or <= 0)
+H4,CXR,CXR,no CO2 pc in 2022 (or <= 0)
+H4,CYM,Cayman Islands,no CO2 pc in 2022 (or <= 0)
+H4,GIB,Gibraltar,no CO2 pc in 2022 (or <= 0)
+H4,GUM,Guam,no CO2 pc in 2022 (or <= 0)
+H4,IMN,Isle of Man,no CO2 pc in 2022 (or <= 0)
+H4,MAF,St. Martin (French part),no CO2 pc in 2022 (or <= 0)
+H4,MCO,Monaco,no CO2 pc in 2022 (or <= 0)
+H4,MNP,Northern Mariana Islands,no CO2 pc in 2022 (or <= 0)
+H4,PRI,Puerto Rico (US),no CO2 pc in 2022 (or <= 0)
+H4,SMR,San Marino,no CO2 pc in 2022 (or <= 0)
+H4,VAT,VAT,no CO2 pc in 2022 (or <= 0)
+H4,VIR,Virgin Islands (U.S.),no CO2 pc in 2022 (or <= 0)
+H4,AIA,AIA,no GDP pc in 2022 (or <= 0)
+H4,BES,BES,no GDP pc in 2022 (or <= 0)
+H4,COK,COK,no GDP pc in 2022 (or <= 0)
+H4,ERI,Eritrea,no GDP pc in 2022 (or <= 0)
+H4,LIE,Liechtenstein,no GDP pc in 2022 (or <= 0)
+H4,MSR,MSR,no GDP pc in 2022 (or <= 0)
+H4,NCL,New Caledonia,no GDP pc in 2022 (or <= 0)
+H4,NIU,NIU,no GDP pc in 2022 (or <= 0)
+H4,PRK,"Korea, Dem. People's Rep.",no GDP pc in 2022 (or <= 0)
+H4,SHN,SHN,no GDP pc in 2022 (or <= 0)
+H4,SPM,SPM,no GDP pc in 2022 (or <= 0)
+H4,SSD,South Sudan,no GDP pc in 2022 (or <= 0)
+H4,TWN,TWN,no GDP pc in 2022 (or <= 0)
+H4,VGB,British Virgin Islands,no GDP pc in 2022 (or <= 0)
+H4,WLF,WLF,no GDP pc in 2022 (or <= 0)
+H4,YEM,"Yemen, Rep.",no GDP pc in 2022 (or <= 0)
+H5,AFG,Afghanistan,not a high-income country
+H5,AGO,Angola,not a high-income country
+H5,AIA,AIA,not a high-income country
+H5,ALB,Albania,not a high-income country
+H5,ARG,Argentina,not a high-income country
+H5,ARM,Armenia,not a high-income country
+H5,ATA,ATA,not a high-income country
+H5,AZE,Azerbaijan,not a high-income country
+H5,BDI,Burundi,not a high-income country
+H5,BEN,Benin,not a high-income country
+H5,BES,BES,not a high-income country
+H5,BFA,Burkina Faso,not a high-income country
+H5,BGD,Bangladesh,not a high-income country
+H5,BIH,Bosnia and Herzegovina,not a high-income country
+H5,BLR,Belarus,not a high-income country
+H5,BLZ,Belize,not a high-income country
+H5,BOL,Bolivia,not a high-income country
+H5,BRA,Brazil,not a high-income country
+H5,BTN,Bhutan,not a high-income country
+H5,BWA,Botswana,not a high-income country
+H5,CAF,Central African Republic,not a high-income country
+H5,CHN,China,not a high-income country
+H5,CIV,Cote d'Ivoire,not a high-income country
+H5,CMR,Cameroon,not a high-income country
+H5,COD,"Congo, Dem. Rep.",not a high-income country
+H5,COG,"Congo, Rep.",not a high-income country
+H5,COK,COK,not a high-income country
+H5,COL,Colombia,not a high-income country
+H5,COM,Comoros,not a high-income country
+H5,CPV,Cabo Verde,not a high-income country
+H5,CUB,Cuba,not a high-income country
+H5,CXR,CXR,not a high-income country
+H5,DJI,Djibouti,not a high-income country
+H5,DMA,Dominica,not a high-income country
+H5,DOM,Dominican Republic,not a high-income country
+H5,DZA,Algeria,not a high-income country
+H5,ECU,Ecuador,not a high-income country
+H5,EGY,"Egypt, Arab Rep.",not a high-income country
+H5,ERI,Eritrea,not a high-income country
+H5,ETH,Ethiopia,not a high-income country
+H5,FJI,Fiji,not a high-income country
+H5,FSM,"Micronesia, Fed. Sts.",not a high-income country
+H5,GAB,Gabon,not a high-income country
+H5,GEO,Georgia,not a high-income country
+H5,GHA,Ghana,not a high-income country
+H5,GIN,Guinea,not a high-income country
+H5,GMB,"Gambia, The",not a high-income country
+H5,GNB,Guinea-Bissau,not a high-income country
+H5,GNQ,Equatorial Guinea,not a high-income country
+H5,GRD,Grenada,not a high-income country
+H5,GTM,Guatemala,not a high-income country
+H5,HND,Honduras,not a high-income country
+H5,HTI,Haiti,not a high-income country
+H5,IDN,Indonesia,not a high-income country
+H5,IND,India,not a high-income country
+H5,IRN,"Iran, Islamic Rep.",not a high-income country
+H5,IRQ,Iraq,not a high-income country
+H5,JAM,Jamaica,not a high-income country
+H5,JOR,Jordan,not a high-income country
+H5,KAZ,Kazakhstan,not a high-income country
+H5,KEN,Kenya,not a high-income country
+H5,KGZ,Kyrgyz Republic,not a high-income country
+H5,KHM,Cambodia,not a high-income country
+H5,KIR,Kiribati,not a high-income country
+H5,LAO,Lao PDR,not a high-income country
+H5,LBN,Lebanon,not a high-income country
+H5,LBR,Liberia,not a high-income country
+H5,LBY,Libya,not a high-income country
+H5,LCA,St. Lucia,not a high-income country
+H5,LKA,Sri Lanka,not a high-income country
+H5,LSO,Lesotho,not a high-income country
+H5,MAR,Morocco,not a high-income country
+H5,MDA,Moldova,not a high-income country
+H5,MDG,Madagascar,not a high-income country
+H5,MDV,Maldives,not a high-income country
+H5,MEX,Mexico,not a high-income country
+H5,MHL,Marshall Islands,not a high-income country
+H5,MKD,North Macedonia,not a high-income country
+H5,MLI,Mali,not a high-income country
+H5,MMR,Myanmar,not a high-income country
+H5,MNE,Montenegro,not a high-income country
+H5,MNG,Mongolia,not a high-income country
+H5,MOZ,Mozambique,not a high-income country
+H5,MRT,Mauritania,not a high-income country
+H5,MSR,MSR,not a high-income country
+H5,MUS,Mauritius,not a high-income country
+H5,MWI,Malawi,not a high-income country
+H5,MYS,Malaysia,not a high-income country
+H5,NAM,Namibia,not a high-income country
+H5,NER,Niger,not a high-income country
+H5,NGA,Nigeria,not a high-income country
+H5,NIC,Nicaragua,not a high-income country
+H5,NIU,NIU,not a high-income country
+H5,NPL,Nepal,not a high-income country
+H5,PAK,Pakistan,not a high-income country
+H5,PER,Peru,not a high-income country
+H5,PHL,Philippines,not a high-income country
+H5,PNG,Papua New Guinea,not a high-income country
+H5,PRK,"Korea, Dem. People's Rep.",not a high-income country
+H5,PRY,Paraguay,not a high-income country
+H5,PSE,West Bank and Gaza,not a high-income country
+H5,RWA,Rwanda,not a high-income country
+H5,SDN,Sudan,not a high-income country
+H5,SEN,Senegal,not a high-income country
+H5,SHN,SHN,not a high-income country
+H5,SLB,Solomon Islands,not a high-income country
+H5,SLE,Sierra Leone,not a high-income country
+H5,SLV,El Salvador,not a high-income country
+H5,SOM,"Somalia, Fed. Rep.",not a high-income country
+H5,SPM,SPM,not a high-income country
+H5,SRB,Serbia,not a high-income country
+H5,SSD,South Sudan,not a high-income country
+H5,STP,Sao Tome and Principe,not a high-income country
+H5,SUR,Suriname,not a high-income country
+H5,SWZ,Eswatini,not a high-income country
+H5,SYR,Syrian Arab Republic,not a high-income country
+H5,TCD,Chad,not a high-income country
+H5,TGO,Togo,not a high-income country
+H5,THA,Thailand,not a high-income country
+H5,TJK,Tajikistan,not a high-income country
+H5,TKM,Turkmenistan,not a high-income country
+H5,TLS,Timor-Leste,not a high-income country
+H5,TON,Tonga,not a high-income country
+H5,TUN,Tunisia,not a high-income country
+H5,TUR,Turkiye,not a high-income country
+H5,TUV,Tuvalu,not a high-income country
+H5,TWN,TWN,not a high-income country
+H5,TZA,Tanzania,not a high-income country
+H5,UGA,Uganda,not a high-income country
+H5,UKR,Ukraine,not a high-income country
+H5,UZB,Uzbekistan,not a high-income country
+H5,VAT,VAT,not a high-income country
+H5,VCT,St. Vincent and the Grenadines,not a high-income country
+H5,VEN,"Venezuela, RB",not a high-income country
+H5,VNM,Viet Nam,not a high-income country
+H5,VUT,Vanuatu,not a high-income country
+H5,WLF,WLF,not a high-income country
+H5,WSM,Samoa,not a high-income country
+H5,XKX,Kosovo,not a high-income country
+H5,YEM,"Yemen, Rep.",not a high-income country
+H5,ZAF,South Africa,not a high-income country
+H5,ZMB,Zambia,not a high-income country
+H5,ZWE,Zimbabwe,not a high-income country
+H5,ASM,American Samoa,no CO2 pc in 1990 (or <= 0)
+H5,CHI,Channel Islands,no CO2 pc in 1990 (or <= 0)
+H5,CYM,Cayman Islands,no CO2 pc in 1990 (or <= 0)
+H5,GIB,Gibraltar,no CO2 pc in 1990 (or <= 0)
+H5,GUM,Guam,no CO2 pc in 1990 (or <= 0)
+H5,IMN,Isle of Man,no CO2 pc in 1990 (or <= 0)
+H5,MAF,St. Martin (French part),no CO2 pc in 1990 (or <= 0)
+H5,MCO,Monaco,no CO2 pc in 1990 (or <= 0)
+H5,MNP,Northern Mariana Islands,no CO2 pc in 1990 (or <= 0)
+H5,PRI,Puerto Rico (US),no CO2 pc in 1990 (or <= 0)
+H5,SMR,San Marino,no CO2 pc in 1990 (or <= 0)
+H5,VIR,Virgin Islands (U.S.),no CO2 pc in 1990 (or <= 0)
+H6,AIA,AIA,no World Bank income group
+H6,ATA,ATA,no World Bank income group
+H6,BES,BES,no World Bank income group
+H6,COK,COK,no World Bank income group
+H6,CXR,CXR,no World Bank income group
+H6,MSR,MSR,no World Bank income group
+H6,NIU,NIU,no World Bank income group
+H6,SHN,SHN,no World Bank income group
+H6,SPM,SPM,no World Bank income group
+H6,TWN,TWN,no World Bank income group
+H6,VAT,VAT,no World Bank income group
+H6,WLF,WLF,no World Bank income group
+H6,ASM,American Samoa,no CO2 pc in 1990 (or <= 0)
+H6,CHI,Channel Islands,no CO2 pc in 1990 (or <= 0)
+H6,CYM,Cayman Islands,no CO2 pc in 1990 (or <= 0)
+H6,ERI,Eritrea,no CO2 pc in 1990 (or <= 0)
+H6,FSM,"Micronesia, Fed. Sts.",no CO2 pc in 1990 (or <= 0)
+H6,GIB,Gibraltar,no CO2 pc in 1990 (or <= 0)
+H6,GUM,Guam,no CO2 pc in 1990 (or <= 0)
+H6,IMN,Isle of Man,no CO2 pc in 1990 (or <= 0)
+H6,MAF,St. Martin (French part),no CO2 pc in 1990 (or <= 0)
+H6,MCO,Monaco,no CO2 pc in 1990 (or <= 0)
+H6,MHL,Marshall Islands,no CO2 pc in 1990 (or <= 0)
+H6,MNP,Northern Mariana Islands,no CO2 pc in 1990 (or <= 0)
+H6,NAM,Namibia,no CO2 pc in 1990 (or <= 0)
+H6,PRI,Puerto Rico (US),no CO2 pc in 1990 (or <= 0)
+H6,SMR,San Marino,no CO2 pc in 1990 (or <= 0)
+H6,TLS,Timor-Leste,no CO2 pc in 1990 (or <= 0)
+H6,VIR,Virgin Islands (U.S.),no CO2 pc in 1990 (or <= 0)
+H6,XKX,Kosovo,no CO2 pc in 1990 (or <= 0)
+H6,AFG,Afghanistan,no GDP pc in 1990 (or <= 0)
+H6,CUW,Curacao,no GDP pc in 1990 (or <= 0)
+H6,DJI,Djibouti,no GDP pc in 1990 (or <= 0)
+H6,FRO,Faroe Islands,no GDP pc in 1990 (or <= 0)
+H6,LIE,Liechtenstein,no GDP pc in 1990 (or <= 0)
+H6,MNE,Montenegro,no GDP pc in 1990 (or <= 0)
+H6,NCL,New Caledonia,no GDP pc in 1990 (or <= 0)
+H6,PRK,"Korea, Dem. People's Rep.",no GDP pc in 1990 (or <= 0)
+H6,PSE,West Bank and Gaza,no GDP pc in 1990 (or <= 0)
+H6,SRB,Serbia,no GDP pc in 1990 (or <= 0)
+H6,SSD,South Sudan,no GDP pc in 1990 (or <= 0)
+H6,SXM,Sint Maarten (Dutch part),no GDP pc in 1990 (or <= 0)
+H6,TCA,Turks and Caicos Islands,no GDP pc in 1990 (or <= 0)
+H6,VGB,British Virgin Islands,no GDP pc in 1990 (or <= 0)
+H6,YEM,"Yemen, Rep.",no GDP pc in 2022 (or <= 0)
+H7,ASM,American Samoa,no CO2 pc in 2022 (or <= 0)
+H7,ATA,ATA,no CO2 pc in 2022 (or <= 0)
+H7,CHI,Channel Islands,no CO2 pc in 2022 (or <= 0)
+H7,CXR,CXR,no CO2 pc in 2022 (or <= 0)
+H7,CYM,Cayman Islands,no CO2 pc in 2022 (or <= 0)
+H7,GIB,Gibraltar,no CO2 pc in 2022 (or <= 0)
+H7,GUM,Guam,no CO2 pc in 2022 (or <= 0)
+H7,IMN,Isle of Man,no CO2 pc in 2022 (or <= 0)
+H7,MAF,St. Martin (French part),no CO2 pc in 2022 (or <= 0)
+H7,MCO,Monaco,no CO2 pc in 2022 (or <= 0)
+H7,MNP,Northern Mariana Islands,no CO2 pc in 2022 (or <= 0)
+H7,PRI,Puerto Rico (US),no CO2 pc in 2022 (or <= 0)
+H7,SMR,San Marino,no CO2 pc in 2022 (or <= 0)
+H7,VAT,VAT,no CO2 pc in 2022 (or <= 0)
+H7,VIR,Virgin Islands (U.S.),no CO2 pc in 2022 (or <= 0)
+H7,AIA,AIA,no GDP pc in 2022 (or <= 0)
+H7,BES,BES,no GDP pc in 2022 (or <= 0)
+H7,COK,COK,no GDP pc in 2022 (or <= 0)
+H7,ERI,Eritrea,no GDP pc in 2022 (or <= 0)
+H7,LIE,Liechtenstein,no GDP pc in 2022 (or <= 0)
+H7,MSR,MSR,no GDP pc in 2022 (or <= 0)
+H7,NCL,New Caledonia,no GDP pc in 2022 (or <= 0)
+H7,NIU,NIU,no GDP pc in 2022 (or <= 0)
+H7,PRK,"Korea, Dem. People's Rep.",no GDP pc in 2022 (or <= 0)
+H7,SHN,SHN,no GDP pc in 2022 (or <= 0)
+H7,SPM,SPM,no GDP pc in 2022 (or <= 0)
+H7,SSD,South Sudan,no GDP pc in 2022 (or <= 0)
+H7,TWN,TWN,no GDP pc in 2022 (or <= 0)
+H7,VGB,British Virgin Islands,no GDP pc in 2022 (or <= 0)
+H7,WLF,WLF,no GDP pc in 2022 (or <= 0)
+H7,YEM,"Yemen, Rep.",no GDP pc in 2022 (or <= 0)
+H7,NRU,Naoero,no industry share in 2018-2022
+H7,SOM,"Somalia, Fed. Rep.",no industry share in 2018-2022
+H7,TUV,Tuvalu,no industry share in 2018-2022
+H7,VEN,"Venezuela, RB",no industry share in 2018-2022

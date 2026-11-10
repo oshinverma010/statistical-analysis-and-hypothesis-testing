@@ -1,0 +1,16 @@
+step,rule,rows_before,rows_after,rows_dropped_or_changed,note
+wb_meta,drop World Bank aggregates (region == 'Aggregates'),296,217,79,
+wb_ind:NY.GDP.PCAP.KD,keep country rows only,8778,7161,1617,459 null values kept as missing (not imputed)
+wb_ind:NY.GDP.PCAP.PP.KD,keep country rows only,8778,7161,1617,761 null values kept as missing (not imputed)
+wb_ind:SP.POP.TOTL,keep country rows only,8778,7161,1617,0 null values kept as missing (not imputed)
+wb_ind:SP.URB.TOTL.IN.ZS,keep country rows only,8778,7161,1617,0 null values kept as missing (not imputed)
+wb_ind:NV.IND.TOTL.ZS,keep country rows only,8778,7161,1617,"1,119 null values kept as missing (not imputed)"
+owid_years,restrict to 1990-2022,50411,8375,42036,
+owid_crosswalk,manual crosswalk Kosovo -> XKX,33,0,33,rows changed (not dropped)
+owid_agg,"drop OWID rows with no ISO3 (aggregates, regions, shipping, aviation...)",8375,7227,1148,35 non-country entities
+join,"outer join OWID x World Bank on (iso3, year)",14388,7557,6831,"both=6,831, owid_only=396, wb_only=330"
+range:urban_pct,shares outside 0-100 set to NaN,7161,7161,0,
+range:industry_pct,shares outside 0-100 set to NaN,6042,6042,0,
+logguard:co2_pc,non-positive values excluded from log transforms,7045,7035,10,
+logguard:gdp_pc,non-positive values excluded from log transforms,6702,6702,0,
+logguard:gdp_pc_ppp,non-positive values excluded from log transforms,6400,6400,0,

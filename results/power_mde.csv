@@ -1,0 +1,10 @@
+hypothesis,n,test,mde_d_80pct_power,power
+H3,74 vs 72,"Welch/independent t (power via pooled-variance t, one-sided)",0.41354984586124693,
+H5,74,paired t (one-sided),0.291764509313049,
+H5,74 (effective 70.7),Wilcoxon (t-power with ARE=0.955 approximation),0.2986936740431011,
+H3,74 vs 72,power at d=0.2,,0.3291223260086922
+H5,74,power at d_z=0.2 (paired t),,0.5237778522634619
+H3,74 vs 72,power at d=0.5,,0.9133042363172048
+H5,74,power at d_z=0.5 (paired t),,0.9955515442807324
+H3,74 vs 72,power at d=0.8,,0.9992247257612791
+H5,74,power at d_z=0.8 (paired t),,0.9999998841263038
